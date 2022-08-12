@@ -68,3 +68,18 @@ background: rgb(255,255,255);
 color:black;
 font-size:23px;
 }
+#blueSky {width: 20%;
+}
+.Bsky{
+  position: absolute;
+  top: 50px;
+  left: 0px;
+  width:90%;
+  height: 150px;
+  background: grey;
+  margin: 20px;
+  border-color:honeydew ;
+  border-width: 20px;
+  border-style:solid ;
+  padding: 20px;
+}

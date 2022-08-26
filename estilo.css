@@ -4,7 +4,7 @@ body{
 }
 h1 {
   text-align: center;
-padding: 23px 12px;
+padding: 35px 12px;
 color: 	#e1e1e1;
 }
 h2 {
@@ -107,8 +107,8 @@ font-size:23px;
 
 #Placas {width: auto;
   height: auto;
-  max-width: 750px;
-  max-height: 750px;
+  max-width: 540px;
+  max-height: 540px;
   border: 20px outset #bf2626;
   border-radius: 380px;
 
@@ -166,9 +166,9 @@ font-size:23px;
 
 
 
-/*
+
 .rodape{
- position: absolute;
+ position: fixed;
  bottom: 0;
  width: 100%;
  background: black;
@@ -180,7 +180,7 @@ font-size:23px;
  left: 0;
  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
  
-}*/
+}
 
 .conteudo{
   position: absolute;
